@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Renzo</h1>
 <h3 align="center">Apasionado por la tecnologia y el desarrollo de software</h3>
 
-- 🔭 Actualmente me cuendo resolviendo Issues de [Portal de Servicios UCSP](https://cloud.ucsp.edu.pe/portalsanpablo/pregrado)
-
-- 🌱 Actualmente estoy aprendiendo **React y ReactNative**
+- 🌱 Actualmente estoy aprendiendo **Nest y Angular**
 
 - 🤝 Me gustaria colaborar con cualquier proyecto de **Frontend y Backend**
 
